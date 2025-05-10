@@ -132,6 +132,6 @@ keyboard.add_hotkey('[', record_add)
 keyboard.add_hotkey(']', record_wipe)
 keyboard.add_hotkey(';', switchColor)
 keyboard.add_hotkey('q', killThreads)
-keyboard.wait("esc")
+keyboard.wait()
 
 print("done")
