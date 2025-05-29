@@ -1,3 +1,6 @@
+v0.3.1
+ + Replaced threading with Asyncio. (Note: v0.3 may still be faster)
+ 
 v0.3
  + Replaced list iterator with multithreading to increase speed
 
